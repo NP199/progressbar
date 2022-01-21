@@ -1,7 +1,0 @@
-E:/Programme/CopperSpice/Projekte/progressbar/build/CMakeFiles/progressbar.dir
-E:/Programme/CopperSpice/Projekte/progressbar/build/CMakeFiles/install/local.dir
-E:/Programme/CopperSpice/Projekte/progressbar/build/CMakeFiles/install.dir
-E:/Programme/CopperSpice/Projekte/progressbar/build/CMakeFiles/edit_cache.dir
-E:/Programme/CopperSpice/Projekte/progressbar/build/CMakeFiles/rebuild_cache.dir
-E:/Programme/CopperSpice/Projekte/progressbar/build/CMakeFiles/list_install_components.dir
-E:/Programme/CopperSpice/Projekte/progressbar/build/CMakeFiles/install/strip.dir
