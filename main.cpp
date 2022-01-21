@@ -30,6 +30,9 @@ int main(int argc, char *argv[])
    QProgressBar *progress1 = new QProgressBar();
    
    QSlider *slider1 = new QSlider();
+   slider1->setOrientation(Qt::Orientation(0x1));
+   slider1->setRange(0,100);
+
 
    QHBoxLayout *layout1 = new QHBoxLayout();
    layout1->addStretch();
