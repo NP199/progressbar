@@ -1,0 +1,13 @@
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libgcc_s_seh-1.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libstdc++-6.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libwinpthread-1.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libgcc_s_seh-1.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libstdc++-6.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libwinpthread-1.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libgcc_s_seh-1.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libstdc++-6.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libwinpthread-1.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./progressbar.exe
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libCsCore1.7.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./libCsGui1.7.dll
+E:/Programme/CopperSpice/Projekte/progressbar/deploy/./platforms/CsGuiWin1.7.dll
