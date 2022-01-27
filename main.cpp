@@ -81,7 +81,7 @@ int main(int argc, char *argv[])
 
    QObject::connect(slider1, &QAbstractSlider::valueChanged, progress1, &QProgressBar::setValue);
    QObject::connect(pb1, &QPushButton::clicked, mainWindow, &QWidget::close);
-   QObject::connect(spinbox1, &QAbstractSpinBox::editingFinished, slider1, [slider1,spinbox1,checkbox1](){
+   QObject::connect(spinbox1, cs_mp_cast<int>(&QSpinBox::valueChanged), slider1, [slider1,spinbox1,checkbox1](){
            int temp = spinbox1->value();
            if(checkbox1->checkState() == 2)
            {
